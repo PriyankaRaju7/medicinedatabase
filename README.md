@@ -1,6 +1,6 @@
 Android Project(Mobile Application Project)
-Topic:Medicine Database
-A Medicine database is used to store the medicine information. And also used to maintain and trackthe 
+Topic:Medicine Database.
+A Medicine database is used to store the medicine information. And also used to maintain and track the 
 medicine information in which time the patient want to take medicine and which date medicine can
 allotted to respective time by giving specified date and time.
 After giving medicine time we can view the inserted information. After inserting to database whenever 
